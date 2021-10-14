@@ -1,0 +1,9 @@
+Package: com.chr1s.jigglemode
+Name: JiggleMode
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make your icons jiggle
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
